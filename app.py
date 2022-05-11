@@ -198,4 +198,4 @@ def my_form_post():
                             
 
 if __name__ == "__main__":
-    app.run(debug=True, host="127.0.0.1", port=5002, threaded=True)
+    app.run(debug=True, host="https://cyril41.github.io/web-app/form.html", port=5002, threaded=True)
